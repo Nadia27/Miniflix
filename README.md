@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Built With
 
-React 
-Cloudinary 
-Auth0
+* React 
+* Cloudinary 
+* Auth0
 
 ## Miniflix Features
 
