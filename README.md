@@ -20,4 +20,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### What I learned building Miniflix
 
-#### Commonly Used Lifecyle Methods
+#### Comonly Used Lifecyle Method
+
+render()
