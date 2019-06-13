@@ -17,9 +17,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Registered/Non-registered users should be able to view all uploaded videos on the platform on a dashboard.
 * Users should be able to share any of the videos on twitter.
 
-
-### What I learned building Miniflix
-
-#### Comonly Used Lifecyle Method
-
-render()
